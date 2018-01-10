@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "634019736700",
+    "firebase_url": "https://employee-track-009.firebaseio.com",
+    "project_id": "employee-track-009",
+    "storage_bucket": "employee-track-009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634019736700:android:df231287c0df5ed5",
+        "android_client_info": {
+          "package_name": "com.vai.project.employeetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634019736700-hr3tm8muf1dlb5sfegf7i5fe3mp1p5c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwl_iCyjSKZhuuWJZLq3gXyxlttG6Wl3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
